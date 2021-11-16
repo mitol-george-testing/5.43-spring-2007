@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5f0ab9da-8230-22f7-8a37-8f346f58f853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Organic Chemistry",
+  "course_description": "This course deals with the application of structure and theory to the study of organic reaction mechanisms: Stereochemical features including conformation and stereoelectronic effects; reaction dynamics, isotope effects and molecular orbital theory applied to pericyclic and photochemical reactions; and special reactive intermediates including carbenes, carbanions, and free radicals.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.43",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
